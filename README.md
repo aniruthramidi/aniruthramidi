@@ -7,7 +7,7 @@ I'm a passionate developer based in **Chennai, India**. I love working with data
 - 💻 My primary programming interests include **Python**, **JavaScript**, and **Database Management Systems**.
 - 📚 I'm constantly learning and diving deep into the **Design and Analysis of Algorithms (DAA)**.
 - 🤝 I’m looking to collaborate on exciting open-source projects!
-- 📫 How to reach me: aniruthramidi@example.com
+- 📫 How to reach me: aniruthreddy1@gmail.com
 
 ## 🛠️ Languages and Tools
 <p align="left">
