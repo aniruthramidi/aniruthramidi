@@ -22,16 +22,21 @@ I'm a passionate developer based in **Chennai, India**. I love working with open
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruthramidi&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniruthramidi/aniruthramidi/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniruthramidi/aniruthramidi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aniruthramidi/aniruthramidi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aniruthramidi/aniruthramidi/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
-![Aniruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniruthramidi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniruthramidi&layout=compact&theme=radical)](https://github.com/aniruthramidi)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniruthramidi&show_icons=true&theme=dracula&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruthramidi&layout=compact&theme=dracula&hide_border=true" width="49%" />
+</div>
 
 ## 🏆 Highlighted Repositories
 - **[decibel](https://github.com/aniruthramidi/decibel)**: A JavaScript project.
