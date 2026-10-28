@@ -1,4 +1,4 @@
-<h1>Hi, my name is Aniruth.</h1>
+<h1>Hi, my name is Aniruth Reddy</h1>
 
 <p>I build modern web applications, high-performance services, and scalable cloud platforms.</p>
 
